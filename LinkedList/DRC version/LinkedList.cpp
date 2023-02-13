@@ -75,6 +75,7 @@ public:
             pushBack(data) ;
             return ;
         }
+        
         index-- ;
         Node* curr = head ;
         while(index--){
