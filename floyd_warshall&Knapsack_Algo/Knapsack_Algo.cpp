@@ -34,3 +34,6 @@ int main()
 	cout << knapSack(W, weight, profit, n);
 	return 0;
 }
+
+// by Kunal Hume
+
